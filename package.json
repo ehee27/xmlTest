@@ -1,0 +1,18 @@
+{
+  "name": "xmltest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "xml-js": "^1.6.11",
+    "xml2js": "^0.6.2"
+  }
+}
